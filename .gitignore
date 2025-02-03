@@ -1,2 +1,4 @@
 log/
 players/
+src/*.o
+src/SocketMud
